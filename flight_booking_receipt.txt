@@ -1,0 +1,14 @@
+------ BOOKING RECEIPT ------
+Passenger: Daksh
+Age: 19
+Email: Daksh@gmail.com
+Address: Vit Bhopal Block 8 Hostel
+
+Flights Booked:
+→ AI303
+
+Total Amount: ₹6000
+Booking Date: 2025-11-20
+Estimated Travel Date: 2025-11-24
+
+------------------------------
